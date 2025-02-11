@@ -1,0 +1,2 @@
+# Tcl Proc Variable Scoping Bug
+This repository demonstrates a common error in Tcl programming: improper handling of variable scope within procedures. The `bug.tcl` file contains code that incorrectly attempts to use variables from the calling procedure's scope. The solution is provided in `bugSolution.tcl`.
